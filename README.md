@@ -70,8 +70,11 @@ Se ejecutó la prueba que se definió en el test.js y se dió el resultado del t
 **Proporcionar las credenciales:** 
 
 `AWS Access Key ID:` Se ingresó el Access Key ID de AWS
+
 `AWS Secret Access Key:` Se ingresó el Secret Access Key de AWS
+
 `Default region name:` Se ingresó  la región de AWS en la que deseas trabajar (por ejemplo, us-east-1)
+
 `Default output format:`No se ingresó ningun formato(se dejó en blanco)
 
 **Configurar el perfil de AWS** 
